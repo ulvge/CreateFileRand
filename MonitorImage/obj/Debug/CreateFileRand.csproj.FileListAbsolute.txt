@@ -1,0 +1,9 @@
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\obj\Debug\CreateFileRand.csprojResolveAssemblyReference.cache
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\obj\Debug\CreateFileRand.CreateFileRand.resources
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\obj\Debug\CreateFileRand.ProjectInstaller.resources
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\obj\Debug\CreateFileRand.csproj.GenerateResource.Cache
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\bin\Debug\CreateFileRand.exe.config
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\bin\Debug\CreateFileRand.exe
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\bin\Debug\CreateFileRand.pdb
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\obj\Debug\CreateFileRand.exe
+H:\misc\EL\mysql\service\bak\MonitorImage\MonitorImage\obj\Debug\CreateFileRand.pdb
